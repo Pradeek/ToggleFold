@@ -1,0 +1,54 @@
+[
+    {
+        "caption": "Toggle Fold selected text",
+        "command": "toggle_fold"
+    },
+    {
+        "caption": "Preferences: ToggleFold Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/ToggleFold/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: ToggleFold Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/ToggleFold/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: ToggleFold Key Bindings – Default",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/ToggleFold/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    },
+    {
+        "caption": "Preferences: ToggleFold Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (Windows).sublime-keymap",
+            "platform": "Windows"
+        }
+    },
+    {
+        "caption": "Preferences: ToggleFold Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (OSX).sublime-keymap",
+            "platform": "OSX"
+        }
+    },
+    {
+        "caption": "Preferences: ToggleFold Key Bindings – User",
+        "command": "open_file",
+        "args": {
+            "file": "${packages}/User/Default (Linux).sublime-keymap",
+            "platform": "Linux"
+        }
+    }
+]
